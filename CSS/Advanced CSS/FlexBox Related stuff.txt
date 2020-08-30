@@ -1,0 +1,10 @@
+GUIDE:
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+
+CHEAT-SHEET:
+https://darekkay.com/dev/flexbox-cheatsheet.html
+
+Broswer-Supports:
+1. http://shouldiprefix.com/
+2. https://caniuse.com/
+3. https://www.w3schools.com/cssref/css3_browsersupport.asp

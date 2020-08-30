@@ -1,0 +1,36 @@
+* {
+	text-align: center;
+}
+
+h2 {
+	font-size: 50px;
+	color: #128942;
+	background-color: rgba(0,0,255,0.1);
+}
+
+p {
+	font-size: 20px;
+}
+
+span {
+	/*Same as putting 100 5 times the regular*/
+	font-size: 5rem;
+}
+li {
+	list-style: none;
+	display: inline-block;
+	font-size: 26px;
+}
+
+.boxmodel
+{
+	align-content: center;
+	border: 5px solid green;
+	display: inline-block;
+	padding: 5px 20px;
+	margin: 0px 20px;
+/*	width: 33px;
+	height: 35px;*/
+}
+
+

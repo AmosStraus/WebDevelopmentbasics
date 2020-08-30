@@ -1,0 +1,23 @@
+beautiful free images:
+https://unsplash.com/
+
+CSS Selector Reference:
+https://www.w3schools.com/cssref/css_selectors.asp
+
+CSS Tricks:
+https://css-tricks.com/almanac/
+
+CSS Specifity Calculator:
+https://specificity.keegan.st/
+
+Cascade and inheritance:
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+
+Paletton - Color matching:
+http://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF
+
+Google Fonts:
+https://fonts.google.com/
+
+CSS-Minify:
+https://www.cleancss.com/css-minify/
